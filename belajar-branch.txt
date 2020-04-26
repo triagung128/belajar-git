@@ -1,3 +1,7 @@
 Belajar branch di github
 
 - Branch adalah jalur pengembangan atau development bebas dari sebuah commit.
+- Checkout adalah berpindah ke branch atau commit yang lain.
+- Pull Request adalah meminta pemilik repo untuk mengambil perubahan yang telah dilakukan.
+- Merge adalah menggabungkan 2 branch.
+- Merge Conflict adalah baris yang sama diubah oleh 2 branch yang berbeda.
