@@ -1,3 +1,3 @@
 Belajar Github
 - VCS (Version Control System) adalah sistem yang dapat menyimpan dan mengelola rekaman perubahan dari source code.
-- Github adalah salah satu sistem yang bisa melakukan vcs
+- Git adalah sebuah software yang bisa melakukan vcs.
